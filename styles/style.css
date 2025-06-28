@@ -9,7 +9,7 @@
     --glass: rgba(255, 255, 255, 0.08);
 }
 body {
-    height: 130vh;
+    height: 150vh;
     margin: 0;
     font-family: 'Inter', sans-serif;
     background: var(--bg);
@@ -56,7 +56,7 @@ header p {
 .lang-toggle {
     position: absolute;
     top: -2rem;
-    right: -16rem;
+    right: -10rem;
     display: flex;
     gap: 0.5rem;
 }
