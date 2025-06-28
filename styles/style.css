@@ -9,7 +9,7 @@
     --glass: rgba(255, 255, 255, 0.08);
 }
 body {
-    height: 126vh;
+    height: 130vh;
     margin: 0;
     font-family: 'Inter', sans-serif;
     background: var(--bg);
