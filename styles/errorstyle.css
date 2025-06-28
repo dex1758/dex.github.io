@@ -57,3 +57,79 @@
         transform: translate(-50%, -400px);
     }
 }
+@media (max-width: 1440px) {
+    .app {
+        font-size: 16px;
+    }
+    .error {
+        font-size: 600px;
+        top: 55%;
+    }
+    .okak {
+        font-size: 90px;
+        bottom: 130px;
+    }
+}
+
+@media (max-width: 1366px) {
+    .app {
+        font-size: 15px;
+    }
+    .error {
+        font-size: 550px;
+        top: 56%;
+    }
+    .okak {
+        font-size: 80px;
+        bottom: 120px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .app {
+        font-size: 14px;
+    }
+    .error {
+        font-size: 400px;
+        top: 85%;
+    }
+    .okak {
+        font-size: 60px;
+        bottom: 100px;
+    }
+    .img {
+        max-width: 1024px;
+    }
+}
+
+@media (max-width: 430px) {
+    .app {
+        font-size: 12px;
+    }
+    .error {
+        font-size: 200px;
+        top: 70%;
+    }
+    .okak {
+        display: none;
+    }
+    .img {
+        display: none;
+    }
+}
+
+@media (max-width: 375px) {
+    .app {
+        font-size: 11px;
+    }
+    .error {
+        font-size: 150px;
+        top: 70%;
+    }
+    .okak {
+        display: none;
+    }
+    .img {
+        display: none;
+    }
+}
